@@ -5,8 +5,8 @@ This project consists of a lexical analyzer written in LEX to recognize specific
 ## Files Included
 
 - `verbs_recognizer.l`: The LEX source file for recognizing verbs.
-- `verb1.txt`: A sample text file containing sentences to test the verb recognizer.
-- `verb2.txt`: Another sample text file for testing the verb recognizer.
+- `verb1s.txt`: A sample text file containing sentences to test the verb recognizer.
+- `verb2s.txt`: Another sample text file for testing the verb recognizer.
 
 ## Requirements
 
